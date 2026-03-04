@@ -1,4 +1,5 @@
 #!/bin/bash
+"I attempt to edit this file"
 set -x
 
 ############################################
